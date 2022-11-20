@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://avatars.dicebear.com/api/adventurer/:seed.svg",
+    "name": "Seed",
+    "type": "adventurer"
+  },
+  {
+    "id": 2,
+    "avatar": "https://avatars.dicebear.com/api/adventurer/alexa.svg",
+    "name": "Alexa",
+    "type": "adventurer"
+  },
+  {
+    "id": 3,
+    "avatar": "https://avatars.dicebear.com/api/adventurer/john.svg",
+    "name": "John",
+    "type": "adventurer"
+  },
+  {
+    "id": 4,
+    "avatar": "https://avatars.dicebear.com/api/adventurer/doe.svg",
+    "name": "Doe",
+    "type": "adventurer"
+  },
+  {
+    "id": 5,
+    "avatar": "https://avatars.dicebear.com/api/adventurer/siri.svg",
+    "name": "Siri",
+    "type": "adventurer"
+  },
+  {
+    "id": 6,
+    "avatar": "https://avatars.dicebear.com/api/adventurer/richard.svg",
+    "name": "Richard",
+    "type": "adventurer"
+  },
+  {
+    "id": 7,
+    "avatar": "https://avatars.dicebear.com/api/micah/:seed.svg",
+    "name": "Michael",
+    "type": "micah"
+  },
+  {
+    "id": 8,
+    "avatar": "https://avatars.dicebear.com/api/micah/eminem.svg",
+    "name": "Eminem",
+    "type": "micah"
+  },
+  {
+    "id": 9,
+    "avatar": "https://avatars.dicebear.com/api/micah/snoopdogg.svg",
+    "name": "Snoop Dogg",
+    "type": "micah"
+  },
+  {
+    "id": 10,
+    "avatar": "https://avatars.dicebear.com/api/micah/weeknd.svg",
+    "name": "The Weeknd",
+    "type": "micah"
+  },
+  {
+    "id": 11,
+    "avatar": "https://avatars.dicebear.com/api/micah/ariana.svg",
+    "name": "Ariana",
+    "type": "micah"
+  },
+  {
+    "id": 12,
+    "avatar": "https://avatars.dicebear.com/api/micah/billie.svg",
+    "name": "Billie Eilish",
+    "type": "micah"
+  },
+  {
+    "id": 13,
+    "avatar": "https://avatars.dicebear.com/api/open-peeps/chandler.svg",
+    "name": "Chandler",
+    "type": "openpeeps"
+  },
+  {
+    "id": 14,
+    "avatar": "https://avatars.dicebear.com/api/open-peeps/rachel.svg",
+    "name": "Rachel",
+    "type": "openpeeps"
+  },
+  {
+    "id": 15,
+    "avatar": "https://avatars.dicebear.com/api/open-peeps/joey.svg",
+    "name": "Joey",
+    "type": "openpeeps"
+  },
+  {
+    "id": 16,
+    "avatar": "https://avatars.dicebear.com/api/open-peeps/monica.svg",
+    "name": "Monica",
+    "type": "openpeeps"
+  },
+  {
+    "id": 17,
+    "avatar": "https://avatars.dicebear.com/api/open-peeps/phoebe.svg",
+    "name": "Phoebe",
+    "type": "openpeeps"
+  },
+  {
+    "id": 18,
+    "avatar": "https://avatars.dicebear.com/api/open-peeps/ross.svg",
+    "name": "Ross",
+    "type": "openpeeps"
+  },
+  {
+    "id": 19,
+    "avatar": "https://avatars.dicebear.com/api/croodles/heisenberg.svg",
+    "name": "Heisenberg",
+    "type": "croodles"
+  },
+  {
+    "id": 20,
+    "avatar": "https://avatars.dicebear.com/api/croodles/thomas.svg",
+    "name": "Shelby",
+    "type": "croodles"
+  },
+  {
+    "id": 21,
+    "avatar": "https://avatars.dicebear.com/api/croodles/pablo.svg",
+    "name": "Pablo Escobar",
+    "type": "croodles"
+  },
+  {
+    "id": 22,
+    "avatar": "https://avatars.dicebear.com/api/croodles/saul.svg",
+    "name": "Saul",
+    "type": "croodles"
+  },
+  {
+    "id": 23,
+    "avatar": "https://avatars.dicebear.com/api/croodles/patrick.svg",
+    "name": "Patrick",
+    "type": "croodles"
+  },
+  {
+    "id": 24,
+    "avatar": "https://avatars.dicebear.com/api/croodles/homelander.svg",
+    "name": "Homelander",
+    "type": "croodles"
+  }
+]
